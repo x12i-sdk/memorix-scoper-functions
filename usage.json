@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-scoper-functions",
+  "packageVersion": "0.4.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-scoper-functions",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-scoper-functions",
+  "sourceRepository": "https://github.com/x12i/scoper-monorepo",
+  "sourceCommit": "1fbab09cdcf68c47f68594bd91b2145a31128f77",
+  "sourcePackageDirectory": "packages/scoper-functions",
+  "example": {
+    "title": "Identify a reusable scope function independently of record arguments",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:28:44.602297+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "54b4529902931ee87dc93d4c8a872962f8929171d6a857cf411ed810f55305b7",
+    "manifestSha256": "5c79522e5592cd795410c574ceedb4f7ef414f59f073f8ad6d81e5dd9577f171"
+  },
+  "validationFiles": {
+    "src/index.mjs": "54b4529902931ee87dc93d4c8a872962f8929171d6a857cf411ed810f55305b7"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "memorix-scoper-functions-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/memorix-scoper-functions: identify a reusable scope function independently of record arguments.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/memorix-scoper-functions": "0.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/memorix-scoper-functions.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/memorix-scoper-functions"
+}
